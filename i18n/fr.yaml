@@ -39,7 +39,7 @@
 
 # Search widget
 - id: search_placeholder
-  translation: Rechercher...
+  translation: Rechercher
 
 # Languages widget
 - id: languages_title
@@ -63,8 +63,7 @@
 
 # Footer
 - id: footer_credits
-  translation: "Produit par <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> et le thème \
-  <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a>."
+  translation: "All rights reserved."
 
 # 404
 - id: 404_title
